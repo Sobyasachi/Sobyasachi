@@ -96,7 +96,7 @@ $(function () {
       left:"0%",
       position:"absolute"
     }, 5000 );
-    $('<div class="my-text showMe">' + 'Some Dummy Text' + '</div>').appendTo('#menu-links');}
+    $('<div class="my-text showMe"><a href="https://drive.google.com/drive/folders/17K8gZQvHQctSn5aFBsMyHNng1HxpmSD3?usp=sharing" id="saket">' + 'Class 11 batch 2021-2022' + '</a></div>').appendTo('#menu-links');}
   });
   $("#menu-links").blur(function(){
     $("#menu-links").stop();

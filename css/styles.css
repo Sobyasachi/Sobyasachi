@@ -111,6 +111,15 @@ html,body {
 	font-size: 1.4em;
 	width: 95%;
 }
+a:link#saket{
+	color: white;
+}
+a:visited#saket{
+    color:antiquewhite;
+}
+a:hover#saket{
+    color: coral;
+}
 /*
 #menu>button:active,#menu>button:hover{
   border-radius:0%;
